@@ -1,0 +1,18 @@
+.title {
+    font-size: 4rem; 
+}
+
+
+
+.newsProps {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    border: 1px solid black; 
+    border-radius: 2rem; 
+    width: 30rem; 
+    padding: 2rem; 
+    margin-left: 37rem;
+    margin-top: 4rem;
+}
